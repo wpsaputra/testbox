@@ -83,4 +83,4 @@ theme = "preferred_color_scheme"
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images
+    dir = ':cacheDir/images'
